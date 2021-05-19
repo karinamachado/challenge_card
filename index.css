@@ -41,14 +41,12 @@ h2.title{
     font-weight: 700;
     text-align: center;
     margin-bottom: 10px;
-    font-family: 'Montserrat', sans-serif;
    
 }
 p.description{
     color: #FFFFFF;
     font-size:1.125rem;
     line-height: 1.875rem;
-    font-family: 'Montserrat', sans-serif;
     font-weight: normal;
     font-style: normal;
     text-align: center;
@@ -103,12 +101,10 @@ p.description{
     .social_media_link{
         display: flex;
         justify-content: space-evenly;
-        margin-top: 74px;
+        margin-top: 15px;
 	}
 
-    .social_media_link>a{
-        font-size: 30px;
-    } 
+   
    
 }
 
